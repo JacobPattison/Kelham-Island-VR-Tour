@@ -1,0 +1,5 @@
+Cylinder
+
+The cylinder was full of air tight oil that was connected to a tank
+and a pump that controlled the flow of liquid.
+Pressure built up pushing the ram.
